@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="" />
+    <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qEj0pvpAH6yzYgATeRgdhQlUZl" />
@@ -20,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../movie_app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -31,8 +50,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616651425302</updated>
-      <workItem from="1616651429655" duration="338000" />
+      <workItem from="1616651429655" duration="501000" />
+      <workItem from="1616666935011" duration="7877000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1616651837301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616651837301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -48,5 +76,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
