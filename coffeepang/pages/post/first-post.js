@@ -1,0 +1,1 @@
+export default function FirstPost(){    return <h1>Hello First post</h1>}
