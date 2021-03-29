@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/post/first-post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +40,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../movie_app/movie_app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/coffeepang" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\CoffeePang\coffeepang" />
+      <recent name="C:\Project\CoffeePang\coffeepang\pages" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +62,8 @@
       <workItem from="1616666935011" duration="7877000" />
       <workItem from="1616686176459" duration="1191000" />
       <workItem from="1616735541582" duration="251000" />
+      <workItem from="1616926518568" duration="7727000" />
+      <workItem from="1616946564228" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1616651837301</created>
@@ -65,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616686265778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add page example">
+      <created>1616926670731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616926670731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="nextJS init" />
-    <option name="LAST_COMMIT_MESSAGE" value="nextJS init" />
+    <MESSAGE value="add page example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add page example" />
   </component>
 </project>

@@ -1,7 +1,17 @@
-import '../styles/globals.css'
+import withRedux from 'next-redux-wrapper';
+import {createStore} from "redux";
+import {coffeeReducer, wrapper} from "../coffeeRedux"
+import {Provider} from "react-redux";
+const store = createStore(coffeeReducer);
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+function MyApp({Component, pageProps}) {
+    return (
+        <>
+            <Provider store={store}>
+                <Component {...pageProps} />
+            </Provider>
+        </>
+    )
 }
 
-export default MyApp
+export default wrapper.withRedux(MyApp)
