@@ -1,0 +1,1 @@
+export const ADD_GOODS = 'ADD_GOODS';export const addGoods = (payload) => ({    type : ADD_GOODS,    payload})
