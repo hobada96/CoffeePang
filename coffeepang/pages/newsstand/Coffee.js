@@ -1,1 +1,0 @@
-import React from "react";const Coffee = ({id,seller,coffeeName,price,description,weight}) => {    return (        <>            <h1>                판매자 : {seller}            </h1>            <h1>이름 : {coffeeName} {weight}g 가격 : {price}원 </h1>        </>    )}export default Coffee;

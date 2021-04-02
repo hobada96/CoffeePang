@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05844011-c355-4efb-a08e-03f2afcd226b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/newsstand/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/post/first-post.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/newsstand/Coffee.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/CoffeeConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/newsstand/CoffeeRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/CoffeeRegistration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +33,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FrontEnd_Basic/react/redux-ex6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../movie_app/movie_app" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,7 +48,11 @@
       <option name="presentableId" value="Default" />
       <updated>1616946594259</updated>
       <workItem from="1616946596246" duration="9557000" />
-      <workItem from="1617001759530" duration="8374000" />
+      <workItem from="1617001759530" duration="8486000" />
+      <workItem from="1617119090374" duration="624000" />
+      <workItem from="1617202257410" duration="2682000" />
+      <workItem from="1617282302024" duration="2121000" />
+      <workItem from="1617342583171" duration="3626000" />
     </task>
     <task id="LOCAL-00001" summary="add coffee with redux action AddGoods">
       <created>1617028137899</created>
@@ -59,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617028137900</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add coffee with redux action AddGoods">
+      <created>1617028154643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617028154643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
