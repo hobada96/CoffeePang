@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05844011-c355-4efb-a08e-03f2afcd226b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/newsstand/Coffee.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/CoffeeConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/newsstand/CoffeeRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/CoffeeRegistration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/newsstand/CoffeeConfig.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,10 @@
       <workItem from="1617119090374" duration="624000" />
       <workItem from="1617202257410" duration="2682000" />
       <workItem from="1617282302024" duration="2121000" />
-      <workItem from="1617342583171" duration="3626000" />
+      <workItem from="1617342583171" duration="4400000" />
+      <workItem from="1617546291493" duration="3505000" />
+      <workItem from="1617553565732" duration="1021000" />
+      <workItem from="1617585011439" duration="2405000" />
     </task>
     <task id="LOCAL-00001" summary="add coffee with redux action AddGoods">
       <created>1617028137899</created>
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617028154643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="link config">
+      <created>1617362175186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617362175186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add coffee with redux action AddGoods" />
-    <option name="LAST_COMMIT_MESSAGE" value="add coffee with redux action AddGoods" />
+    <MESSAGE value="link config" />
+    <option name="LAST_COMMIT_MESSAGE" value="link config" />
   </component>
 </project>
