@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="05844011-c355-4efb-a08e-03f2afcd226b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/newsstand/CoffeeConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeeRedux/coffeeReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeeRedux/coffeeReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/newsstand/CoffeeRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/CoffeeRegistration.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/newsstand/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +36,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../movie_app/movie_app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\CoffeePang\coffeepang\public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +64,8 @@
       <workItem from="1617546291493" duration="3505000" />
       <workItem from="1617553565732" duration="1021000" />
       <workItem from="1617585011439" duration="2405000" />
+      <workItem from="1617587443115" duration="8208000" />
+      <workItem from="1617601229943" duration="2765000" />
     </task>
     <task id="LOCAL-00001" summary="add coffee with redux action AddGoods">
       <created>1617028137899</created>
@@ -77,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617362175186</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add router with url parsing">
+      <created>1617587470392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617587470392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add coffee with redux action AddGoods" />
     <MESSAGE value="link config" />
-    <option name="LAST_COMMIT_MESSAGE" value="link config" />
+    <MESSAGE value="add router with url parsing" />
+    <option name="LAST_COMMIT_MESSAGE" value="add router with url parsing" />
   </component>
 </project>
