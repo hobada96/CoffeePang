@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffeepang/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffeepang/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1617977542215" duration="594000" />
       <workItem from="1618049251067" duration="13000" />
       <workItem from="1618206412586" duration="2318000" />
-      <workItem from="1618212090007" duration="3468000" />
+      <workItem from="1618212090007" duration="7110000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1616651837301</created>
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617805777631</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add config">
+      <created>1618237788064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618237788064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +128,7 @@
     <MESSAGE value="nextJS init" />
     <MESSAGE value="add page example" />
     <MESSAGE value="add example img" />
-    <option name="LAST_COMMIT_MESSAGE" value="add example img" />
+    <MESSAGE value="add config" />
+    <option name="LAST_COMMIT_MESSAGE" value="add config" />
   </component>
 </project>
