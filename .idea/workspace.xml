@@ -4,8 +4,11 @@
     <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/CoffeeRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/CoffeeRegistration.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../movie_app/movie_app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +71,10 @@
       <workItem from="1617977542215" duration="594000" />
       <workItem from="1618049251067" duration="13000" />
       <workItem from="1618206412586" duration="2318000" />
-      <workItem from="1618212090007" duration="7110000" />
+      <workItem from="1618212090007" duration="9651000" />
+      <workItem from="1618387080434" duration="1000" />
+      <workItem from="1618401404278" duration="903000" />
+      <workItem from="1618408934203" duration="14099000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1616651837301</created>
@@ -105,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618237788064</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add firebase config">
+      <created>1618323391444</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618323391444</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +142,7 @@
     <MESSAGE value="add page example" />
     <MESSAGE value="add example img" />
     <MESSAGE value="add config" />
-    <option name="LAST_COMMIT_MESSAGE" value="add config" />
+    <MESSAGE value="add firebase config" />
+    <option name="LAST_COMMIT_MESSAGE" value="add firebase config" />
   </component>
 </project>
