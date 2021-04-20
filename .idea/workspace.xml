@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coffeepang/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
