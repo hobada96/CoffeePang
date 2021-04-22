@@ -4,6 +4,8 @@
     <list default="true" id="af56bc79-ed54-4c74-b624-bf6bada9e2c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/coffeeRedux/coffeeReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/CoffeeRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/CoffeeRegistration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/[id]/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/[id]/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coffeepang/pages/newsstand/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +78,7 @@
       <workItem from="1618547070520" duration="1470000" />
       <workItem from="1618559415290" duration="1447000" />
       <workItem from="1618581961031" duration="4789000" />
+      <workItem from="1618965448856" duration="17013000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1616651837301</created>
@@ -126,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618493381511</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="firebase with getStaticProps">
+      <created>1618932340732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618932340733</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,7 @@
     <MESSAGE value="add config" />
     <MESSAGE value="add firebase config" />
     <MESSAGE value="add firebase" />
-    <option name="LAST_COMMIT_MESSAGE" value="add firebase" />
+    <MESSAGE value="firebase with getStaticProps" />
+    <option name="LAST_COMMIT_MESSAGE" value="firebase with getStaticProps" />
   </component>
 </project>
